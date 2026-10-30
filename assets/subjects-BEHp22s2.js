@@ -1,0 +1,1 @@
+function e(e){return Number.isFinite(e)&&e>0&&e<=1e3}export{e as t};
