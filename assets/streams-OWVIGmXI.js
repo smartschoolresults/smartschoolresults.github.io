@@ -1,0 +1,1 @@
+function e(e){return e.streamMode===`none`}function t(e){return e.streamMode===void 0||e.streamMode===`none`&&e.streams.length===1||e.streamMode===`multiple`&&e.streams.length>=2}function n(e){return e===`bilingual`?`Whole Class / Darasa Zima`:e===`sw`?`Darasa Zima`:`Whole Class`}export{e as n,t as r,n as t};
