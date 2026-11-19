@@ -1,0 +1,1 @@
+.update-history__list{gap:var(--space-4);margin:0;padding:0;list-style:none;display:grid}.update-history__dates{gap:var(--space-2) var(--space-5);margin:0 0 var(--space-3);flex-wrap:wrap;display:flex}.update-history__dates dt{font-weight:600}.update-history__dates dd{margin:0}.update-history__includes{font-size:var(--text-base);margin:var(--space-3) 0 var(--space-1)}

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CldxteV5.js";import{h as t,m as n,r}from"./chunk-OB3PAWPO-Cttlpxhf.js";var i=e();function a(){let{step:e}=n(),[a]=t();return a.set(`flow`,[`school`,`examination`,`template`,`import`,`academic`,`pupil`][Number(e)-1]??`school`),(0,i.jsx)(r,{to:`/start?`+a,replace:!0})}export{a as GuidePage};

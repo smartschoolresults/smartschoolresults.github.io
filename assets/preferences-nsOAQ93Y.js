@@ -1,0 +1,1 @@
+import{c as e}from"./workspace-state-DauQl7Uv.js";function t(e){try{return window.localStorage.getItem(e)}catch{return null}}function n(t,n){if(e())try{window.localStorage.setItem(t,n)}catch{}}export{n,t};
