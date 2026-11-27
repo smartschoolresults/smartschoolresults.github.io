@@ -1,0 +1,9 @@
+{
+  "packSeq": 3,
+  "packVersion": "1.2.0",
+  "file": "ssr-official-knowledge-1.2.0.ssrk",
+  "sha256": "ef7aabc57527c031100bb803f4e2587dcc5b03fec225fcdf1a085abcdbabb280",
+  "date": "2026-11-27",
+  "appMin": "1.4.1",
+  "appMax": "1.4.1"
+}
