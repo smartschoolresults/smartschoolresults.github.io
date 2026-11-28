@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CldxteV5.js";import"./useI18n-WQ2WUEvk.js";import"./WorkLink-BAspqOei.js";e();function t(e){let t=0,n=0;for(let r of e.pupils)for(let i of e.setup.subjects){let a=e.marks[r.id]?.[i.id];!a||a.status===`pending`?t++:a.status===`score`&&(!Number.isFinite(a.value)||a.value<0||a.value>i.maxMarks)&&n++}return{incomplete:t,invalid:n}}export{t};

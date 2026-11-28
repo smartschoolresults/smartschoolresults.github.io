@@ -1,0 +1,1 @@
+function e(e){let t=globalThis.crypto;if(t?.randomUUID)return`${e}-${t.randomUUID()}`;let n=new Uint8Array(16);return t?.getRandomValues?.(n),`${e}-${Array.from(n,e=>e.toString(16).padStart(2,`0`)).join(``)||`${Date.now().toString(16)}${Math.random().toString(16).slice(2)}`}`}function t(){return new Date().toISOString()}export{t as n,e as t};

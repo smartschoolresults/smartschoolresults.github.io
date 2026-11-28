@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CldxteV5.js";import{f as t,n}from"./chunk-OB3PAWPO-Cttlpxhf.js";import{d as r}from"./context-JaHGpmsd.js";var i=e();function a({to:e,...a}){let o=t();return(0,i.jsx)(n,{...a,to:typeof e==`string`?r(e,o.pathname+o.search):e})}export{a as t};
